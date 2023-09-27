@@ -694,12 +694,12 @@ h6 {
 :root[theme-mode=light] {
   --cursor-data: var(--light-cursor);
   --body-background: var(--light-background);
-  --theme-highlight: #ffc13a;
-  --theme-subcolor: #ff941a;
+  --theme-highlight: #f8aa00;
+  --theme-subcolor: #ff9100;
   --theme-stress: #c0392b;
-  --theme-bar-color-0: #ffb34f;
-  --theme-bar-color-1: #ffc23f;
-  --theme-bar-color-2: #ffd664;
+  --theme-bar-color-0: #ffa600;
+  --theme-bar-color-1: #ffb81d;
+  --theme-bar-color-2: #ffcc3f;
   --theme-bar-color-3: #ffdc7a;
   --theme-kbd-shadow: #ba2;
   --theme-kbd-text: #000;
