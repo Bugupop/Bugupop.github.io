@@ -3282,3 +3282,7 @@ table .code {
 #post-content h6 {
   font-size: 1em;
 }
+::selection {
+  background: #ffae17;
+  color: #000;
+}
