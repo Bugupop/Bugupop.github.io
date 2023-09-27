@@ -654,10 +654,10 @@ h6 {
   --theme-highlight: #ffd04f;
   --theme-subcolor: #ff9c1a;
   --theme-stress: #c0392b;
-  --theme-bar-color-0: #ffd04f;
-  --theme-bar-color-1: #ffcc3f;
-  --theme-bar-color-2: #ffce48;
-  --theme-bar-color-3: #ffc72e;
+  --theme-bar-color-0: #ffb34f;
+  --theme-bar-color-1: #ffc23f;
+  --theme-bar-color-2: #ffd664;
+  --theme-bar-color-3: #ffdc7a;
   --theme-kbd-shadow: #ba2;
   --theme-kbd-text: #000;
   --theme-cursor: #ccc;
@@ -676,7 +676,7 @@ h6 {
   --theme-bg-soft-hover: rgba(255,255,255,0.1);
   --theme-ex-header: rgba(255,255,255,0.3);
   --theme-btn-bg: #d4d8dd;
-  --theme-border: #ffd04f;
+  --theme-border: #fb0;
   --theme-border-light: #fff;
   --theme-border-soft: rgba(255,255,255,0.1);
   --theme-unimportant: #898989;
@@ -694,13 +694,13 @@ h6 {
 :root[theme-mode=light] {
   --cursor-data: var(--light-cursor);
   --body-background: var(--light-background);
-  --theme-highlight: #ff993a;
-  --theme-subcolor: #ff761a;
+  --theme-highlight: #ffc13a;
+  --theme-subcolor: #ff941a;
   --theme-stress: #c0392b;
-  --theme-bar-color-0: #ffd04f;
-  --theme-bar-color-1: #ffcc3f;
-  --theme-bar-color-2: #ffce48;
-  --theme-bar-color-3: #ffc72e;
+  --theme-bar-color-0: #ffb34f;
+  --theme-bar-color-1: #ffc23f;
+  --theme-bar-color-2: #ffd664;
+  --theme-bar-color-3: #ffdc7a;
   --theme-kbd-shadow: #ba2;
   --theme-kbd-text: #000;
   --theme-cursor: #333;
@@ -719,7 +719,7 @@ h6 {
   --theme-bg-soft-hover: rgba(255,255,255,0.6);
   --theme-ex-header: #c0c0c0;
   --theme-btn-bg: #2a272d;
-  --theme-border: #ffd04f;
+  --theme-border: #fb0;
   --theme-border-light: #000;
   --theme-border-soft: rgba(0,0,0,0.1);
   --theme-unimportant: #767676;
