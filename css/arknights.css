@@ -3286,3 +3286,6 @@ table .code {
   background: #ffd04f;
   color: #000;
 }
+.post-bg {
+  border-radius: 5px;
+}
